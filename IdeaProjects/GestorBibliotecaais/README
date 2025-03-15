@@ -1,0 +1,33 @@
+Gestor de libros de una biblioteca para socios y libros
+
+socios{
+nombre
+apellidos
+dni
+email
+fecha de nacimiento
+numero de socio -> contador static
+libros tomados prestados
+}
+
+Libros{
+ISBN validar esto para cuando acabes "^(?=(?:\D*\d){10}(?:(?:\D*\d){3})?$)[\d-]+$"
+titulo
+genero
+numero de paginas
+disponible
+}
+
+La biblioteca tiene como mucho 5000 libros y 1000 socios con 5 libros cada uno como maximo
+
+
+GESTOR BIBLIOTECA
+1. Crear socio
+2. Crear libro
+3. Llevarse libro
+4. Devolver libro
+5. Mostrar libros disponibles
+6. Mostrar libros no disponibles
+7. Mostrar libros de un socio
+0. Salir
+Escoja una opción:

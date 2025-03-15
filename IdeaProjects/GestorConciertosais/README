@@ -1,0 +1,38 @@
+Gestionar un recinto donde se hacen conciertos
+
+com.liceo.daw.ais.Asistente compran entradas en grada o a pie de pista
+
+asistentes{
+nombre
+dni
+apellidos
+dni
+mail
+fecha de nacimiento - tienen que ser mayores de edad
+}
+entradas{
+codigo
+precio
+Grada o pista
+fila y asiento si son de grada
+si son de pista pueden ir al backstage o no/ solo las 100 primeras
+}
+recinto{
+numero de entradas vendidas
+}
+1000 entradas a pie de pista y 100 con backstage
+25000 entradas en gradas (25 x 100)
+
+solo un mail por entrada
+
+se pregunta si se quiere la entrada de pista o no
+
+llevar un recuento de las estradas vendidas por tipo
+
+GESTOR CONCIERTOS
+1. Reservar entrada
+2. Mostrar entrada
+3. Listar entradas vendidas
+4. Mostrar número de entradas disponibles
+0. Salir
+Escoja una opción
