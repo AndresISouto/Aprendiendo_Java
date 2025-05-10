@@ -1,0 +1,2 @@
+(DNI, Nombre, Primer_Apellido, Segundo_Apellido, Fecha_Nacimiento, Salario, Departamento, DNI_Jefe)
+('12345678Z', 'q', 'q', 'q', '2000/3/3', '12.0', '1', '12345678Z')
